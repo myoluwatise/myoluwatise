@@ -89,7 +89,7 @@ Follow me on my journey to become a skilled web developer:
 
 
 ### Profile View Count
-![Profile Views](https://komarev.com/ghpvc/?username=myoluwatise&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=myoluwatise&color=brightgreen&style=flat-square)
 ---
 
 ### 📫How to contact me
