@@ -88,9 +88,7 @@ Follow me on my journey to become a skilled web developer:
 **Github**: https://github.com/myoluwatise?tab=repositories
 
 
-### Profile View Count
-![Profile Views](https://komarev.com/ghpvc/?username=myoluwatise&color=brightgreen&style=flat-square)
----
+--- 
 
 ### 📫How to contact me
 - **Email**: frontendfuel.build@gmail.com
