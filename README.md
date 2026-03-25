@@ -51,7 +51,7 @@ Follow me on my journey to become a skilled web developer:
 ---
 ## 🚀 My Projects
 ### 🌐 Personal Website Draft
-- **[Personal website] https://github.com/myoluwatise/personal-website** - A single page personal website draft show work experience, education. The website is built with HTML and CSS and is fully responsive for various screen sizes.
+- **[Personal website] https://myoluwatise.github.io/oluwatise/** - A personal website draft that is still in development. The website is built with HTML and CSS and is fully responsive for various screen sizes. Keep checking to see the updates.
 - **[CV Draft] https://github.com/myoluwatise/curriculum-vitae** - A single page CV draft showcasing basic HTML and CSS.
 ---
 
